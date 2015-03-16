@@ -33,5 +33,5 @@ notifications:
    recipients:
       - vidya@shippable.com
       - vidyac.raghav@gmail.com
-   on_success: change
+   on_success: never
    on_failure: always
